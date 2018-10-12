@@ -6,8 +6,8 @@ Counts the number of times a variation of the work **`take`** is said on [The Ar
 
 | Episode | Take Count |
 | ------- | ---------- |
-| 0001    | **233**    |
-| 0002    | **221**    |
+| 0001    | **244**    |
+| 0002    | **231**    |
 
 ## How It Works
 

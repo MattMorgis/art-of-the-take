@@ -1,0 +1,12 @@
+{
+  "name": "art-of-the-take",
+  "version": "0.1.0",
+  "description": "too many takes",
+  "main": "index.js",
+  "author": "Matt Morgis",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.3.4",
+    "event-stream": "^4.0.1"
+  }
+}

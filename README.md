@@ -15,6 +15,6 @@ I run each episode through [Amazon Transcribe](https://docs.aws.amazon.com/trans
 
 > Amazon Transcribe uses advanced machine learning technologies to recognize speech in audio files and transcribe them into text.
 
-Transcripts are saved in the [`transcripts`](#) directory.
+Transcripts are saved in the [`transcripts`](https://github.com/MattMorgis/art-of-the-take/tree/master/transcripts) directory.
 
 I then count how many times the word (or variation of) **`take`** appears.

@@ -2,7 +2,7 @@ const fs = require('fs');
 const JSONStream = require('JSONStream');
 const es = require('event-stream');
 
-const episode = '0001-Art-Of-The-Take'
+const episode = '0003-Art-Of-The-Take'
 
 const occurrences = (mainString, subString) => {
   mainString += '';

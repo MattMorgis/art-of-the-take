@@ -8,6 +8,7 @@ Counts the number of times a variation of the work **`take`** is said on [The Ar
 | ------- | ---------- |
 | 0001    | **244**    |
 | 0002    | **231**    |
+| 0003    | **240**    |
 
 ## How It Works
 

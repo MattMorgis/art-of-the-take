@@ -1,14 +1,16 @@
 # Art of the Take
 
-Counts the number of times a variation of the work **`take`** is said on [The Art of the Take](https://overcast.fm/itunes1437525066/the-art-of-the-take) podcast.
+Counts the number of times a variation of the word **`take`** is said on [The Art of the Take](https://overcast.fm/itunes1437525066/the-art-of-the-take) podcast.
 
 ## Running Results
 
-| Episode | Take Count |
-| ------- | ---------- |
-| 0001    | **244**    |
-| 0002    | **231**    |
-| 0003    | **240**    |
+| Episode | Number of times a variation of the word **`take`** is said |
+| ------- | ---------------------------------------------------------- |
+| 0001    | 244                                                        |
+| 0002    | 231                                                        |
+| 0003    | 240                                                        |
+| 0004    | 214                                                        |
+| Average | **232 / episode**                                          |
 
 ## How It Works
 
@@ -18,4 +20,4 @@ I run each episode through [Amazon Transcribe](https://docs.aws.amazon.com/trans
 
 Transcripts are saved in the [`transcripts`](https://github.com/MattMorgis/art-of-the-take/tree/master/transcripts) directory.
 
-I then count how many times the word (or variation of) **`take`** appears.
+It then counts how many times the word (or variation of) **`take`** appears.
